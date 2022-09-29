@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "tap for starting plan your day"; ObjectID = "Bec-mI-iPv"; */
+"Bec-mI-iPv.text" = "günüzü planlamak için tıklayın";
+
+/* Class = "UILabel"; text = "An excelent opportunity to establish your work and life balance"; ObjectID = "Bp8-U0-djQ"; */
+"Bp8-U0-djQ.text" = "İş ve yaşam dengenizi kurmak için mükkemler bir fırsat!";
+
+/* Class = "UILabel"; text = "Start your journey!"; ObjectID = "DlE-Cz-Bb2"; */
+"DlE-Cz-Bb2.text" = "Maceranıza başlayın!";
+
+/* Class = "UIButton"; configuration.title = "Plan it!"; ObjectID = "LEN-mM-yzV"; */
+"LEN-mM-yzV.configuration.title" = "Planla!";
+
+/* Class = "UIButton"; normalTitle = "Plan it!"; ObjectID = "LEN-mM-yzV"; */
+"LEN-mM-yzV.normalTitle" = "Planla!";
+
+/* Class = "UIButton"; configuration.title = "$ 12.99"; ObjectID = "Phh-bh-omo"; */
+"Phh-bh-omo.configuration.title" = "222 ₺";
+
+/* Class = "UIButton"; normalTitle = "Plan it!"; ObjectID = "Phh-bh-omo"; */
+"Phh-bh-omo.normalTitle" = "Planla!!";
+
+/* Class = "UILabel"; text = "subscribe for more feature"; ObjectID = "WIk-Xv-3MP"; */
+"WIk-Xv-3MP.text" = "daha fazla özellik için abone olun";
+
+/* Class = "UILabel"; text = "Plan your day the way you want!"; ObjectID = "a08-mO-vad"; */
+"a08-mO-vad.text" = "Gününü istediğin gibi planla!";
+
+/* Class = "UILabel"; text = "Make your journey special!"; ObjectID = "iaZ-dJ-tqc"; */
+"iaZ-dJ-tqc.text" = "Maceranı özelleştir!";

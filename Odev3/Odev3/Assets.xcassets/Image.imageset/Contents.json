@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "tiny-people-doing-priorities-checklist-flat-illustration_74855-16294 3@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "tiny-people-doing-priorities-checklist-flat-illustration_74855-16294 3@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "tiny-people-doing-priorities-checklist-flat-illustration_74855-16294 3@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
